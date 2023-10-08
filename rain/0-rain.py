@@ -34,3 +34,4 @@ def rain(walls):
 
     return water_trapped
 
+
