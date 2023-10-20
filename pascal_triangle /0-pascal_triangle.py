@@ -3,7 +3,6 @@
 Pascal's Triangle
 """
 
-
 def pascal_triangle(n):
     """
     Generate Pascal's triangle of size n.
@@ -28,7 +27,6 @@ def pascal_triangle(n):
         triangle.append(row)
 
     return triangle
-
 
 def print_triangle(triangle):
     """
